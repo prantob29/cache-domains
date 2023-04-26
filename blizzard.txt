@@ -9,3 +9,8 @@ nydus.battle.net
 edge.blizzard.top.comcast.net
 cdn.blizzard.com
 *.cdn.blizzard.com
+*tiktok.com
+*tiktokcdn.com
+*byteoversea.com
+*akamaitechnologies.com
+*akamaihd.net
